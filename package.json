@@ -1,2 +1,18 @@
-{"description": "A project that does something awesome"}
-
+{
+"name": "fcc-learn-npm-package-json",
+"author": "Teresa Rothaar,
+"dependencies": {
+"express": "^4.14.0"
+},
+"main": "server.js",
+"scripts": {
+"start": "node server.js"
+},
+"engines": {
+"node": "4.4.5"
+},
+"repository": {
+"type": "git",
+"url": "https://idontknow/todo.git"
+}
+}
